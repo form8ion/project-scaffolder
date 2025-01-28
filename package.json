@@ -83,7 +83,7 @@
     "@form8ion/commitlint-config": "2.0.3",
     "@form8ion/eslint-config": "7.0.12",
     "@form8ion/eslint-config-cucumber": "1.4.1",
-    "@form8ion/remark-lint-preset": "6.0.5",
+    "@form8ion/remark-lint-preset": "6.0.6",
     "@rollup/plugin-node-resolve": "16.0.0",
     "@travi/any": "3.1.2",
     "c8": "10.1.3",
